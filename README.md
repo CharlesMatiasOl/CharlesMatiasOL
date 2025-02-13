@@ -2,7 +2,7 @@
 
 **`Analista e desenvolvedor de sistemas`**
 
-Me chamo Charles Matias de Oliveira, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Colegio Universitario IES.
+"Meu nome é Charles Matias de Oliveira, tenho 21 anos e sou brasileiro. Atualmente, curso Análise e Desenvolvimento de Sistemas no Colégio Universitário IES, na Argentina."
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
