@@ -163,8 +163,9 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMatiasOl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200" 
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMatiasOl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
