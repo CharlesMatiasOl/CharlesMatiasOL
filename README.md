@@ -2,7 +2,7 @@
 
 **`Analista e desenvolvedor de sistemas`**
 
-Me chamo Charles Matias de Oliveira, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Colegio Universitario IES. "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Charles Matias de Oliveira, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Colegio Universitario IES.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
