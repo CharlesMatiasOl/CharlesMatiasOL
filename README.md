@@ -95,3 +95,11 @@ Plataforma web para **digitalizar y centralizar** la gestión de reclamos. Integ
 
 **Stack:** Node.js · Express · MySQL · HTML/CSS/JS
 
+
+<br/>
+
+<div align="center">
+  <img src="assets/banners/banner_bottom.jpg" alt="Footer banner" width="900" />
+</div>
+
+
