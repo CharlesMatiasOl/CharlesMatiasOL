@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="240" viewBox="0 0 1600 240">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1600" height="240" viewBox="0 0 1600 240">
+
   <defs>
     <clipPath id="clip">
       <rect x="0" y="0" width="1600" height="240" rx="28" ry="28"/>
@@ -6,12 +9,12 @@
   </defs>
 
   <image
-    href="top.jpg"
     x="0"
     y="-120"
     width="1600"
     height="900"
     preserveAspectRatio="xMidYMid slice"
     clip-path="url(#clip)"
+    xlink:href="top.jpg"
   />
 </svg>
