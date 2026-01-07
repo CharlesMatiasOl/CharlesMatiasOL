@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="assets/pexe1.jpg" alt="Banner" width="900" />
+  <img src="assets/banners/banner_top.jpg" alt="Banner" width="900" />
 </div>
+
+<br/>
+
 
 <div align="center">
 
