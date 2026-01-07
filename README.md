@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="assets/banners/banner_top.jpg" alt="Banner" width="900" />
+  <img src="assets/banners/banner_blue_top_1600x260.jpg" width="900" alt="Banner top" />
 </div>
 
 <br/>
+
 
 
 <div align="center">
@@ -99,7 +100,7 @@ Plataforma web para **digitalizar y centralizar** la gestión de reclamos. Integ
 <br/>
 
 <div align="center">
-  <img src="assets/banners/banner_bottom.jpg" alt="Footer banner" width="900" />
+  <img src="assets/banners/banner_blue_bottom_1600x260.jpg" width="900" alt="Banner bottom" />
 </div>
 
 
