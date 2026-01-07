@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/pexe1.jpg" alt="Banner" width="900" />
+</div>
+
+<div align="center">
 
 # 🏄🏻‍♂️ Charles Matias  
 **`Full Stack Developer`**
