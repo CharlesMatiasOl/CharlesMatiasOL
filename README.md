@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="assets/banners/banner_gold_top_1600x260.jpg" width="900" alt="Banner top" />
+  <img src="assets/banners/banner_bluefish_top_v1_1600x260.jpg" width="900" alt="Banner top" />
 </div>
 
 <br/>
+
 
 
 
@@ -96,11 +97,9 @@ Plataforma web para **digitalizar y centralizar** la gestión de reclamos. Integ
 
 **Stack:** Node.js · Express · MySQL · HTML/CSS/JS
 
-
 <br/>
-
 <div align="center">
-  <img src="assets/banners/banner_gold_bottom_1600x260.jpg" width="900" alt="Banner bottom" />
+  <img src="assets/banners/banner_bluefish_bottom_v1_1600x260.jpg" width="900" alt="Banner bottom" />
 </div>
 
 
