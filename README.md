@@ -108,7 +108,7 @@ Plataforma integral para gestión y publicación de cabañas, que permite al usu
 
 **Links**
 
-- **Repo:**https://github.com/CharlesMatiasOl/cabanascordoba
+- **Repo:** https://github.com/CharlesMatiasOl/cabanascordoba
 
 **Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Node.js · Express · MySQL · JWT 
 
