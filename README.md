@@ -95,6 +95,24 @@ Plataforma web para **digitalizar y centralizar** la gestión de reclamos. Integ
 
 **Stack:** Node.js · Express · MySQL · HTML/CSS/JS
 
+### Cabañas Córdoba — Plataforma de alquiler de cabañas 
+
+Plataforma integral para gestión y publicación de cabañas, que permite al usuario consultar disponibilidad y administrar el contenido desde un panel Admin (login, CRUD de cabañas y gestión de bloqueos), con arquitectura basada en API REST y base de datos relacional.
+
+**Highlights**
+- Relevé lo que necesitaba el negocio y definí el flujo de uso: buscar por fechas, ver detalles y administrar cabañas desde un panel.
+- Desarrollé la plataforma completa de punta a punta: página pública para explorar cabañas y panel Admin para gestionarlas.
+- Implementé la búsqueda por fechas para mostrar solo cabañas disponibles y evitar confusiones al usuario.
+- Incorporé un sistema de “mantenimiento” para bloquear fechas y controlar la disponibilidad de cada cabaña de forma simple.
+- Organicé el proyecto para que sea fácil de mantener y escalar, con código versionado en Git/GitHub y datos de ejemplo para probar en local.
+
+**Links**
+
+- **Repo:**https://github.com/CharlesMatiasOl/cabanascordoba
+
+**Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Node.js · Express · MySQL · JWT 
+
+
 <br/>
 <div align="center">
   <img src="assets/banners/banner_bluefish_bottom_v1_1600x260.jpg" width="900" alt="Banner bottom" />
