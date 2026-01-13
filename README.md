@@ -15,9 +15,7 @@
 Hola, soy Charles (22). Soy **Analista de Sistemas** graduado en el **Colegio Universitario IES**.  
 Me enfoco en construir aplicaciones web **end-to-end** con foco en **calidad**, **mantenibilidad** y **entrega de valor**.
 
-Soy autodidacta, me motiva aprender nuevas tecnologías y resolver **problemas reales** a través de proyectos.  
-Actualmente estoy buscando mi **primera experiencia profesional** en Desarrollo de Software, con interés en posiciones **Full Stack**.
-
+Desarrollé soluciones end-to-end orientadas a la gestión operativa y la automatización de procesos, creando herramientas internas para centralizar información y optimizar el seguimiento de casos en el ámbito de siniestros. Además, participé en el desarrollo de sistemas a medida para distintos negocios (como reservas y gestión comercial), integrando frontend web, APIs REST y bases de datos relacionales para asegurar trazabilidad, eficiencia y un flujo de trabajo claro.
 <br/>
 
 <a href="https://www.linkedin.com/in/charlesmatias/">
