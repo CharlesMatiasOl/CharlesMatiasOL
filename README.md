@@ -26,7 +26,7 @@ Actualmente estoy buscando mi **primera experiencia profesional** en Desarrollo 
 <a href="PORTFOLIO_URL">
   <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
-<a href="https://github.com/user-attachments/files/24461617/CV Charles Matías de Oliveira ES">
+<a href="https://github.com/user-attachments/files/24590355/CV.Charles.Matias.de.Oliveira.ES.docx">
   <img alt="CV" title="Currículum" src="https://img.shields.io/badge/CV-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
