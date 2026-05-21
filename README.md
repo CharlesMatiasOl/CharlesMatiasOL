@@ -126,7 +126,7 @@ Sistema desarrollado en Java para gestionar información relacionada con mascota
 
 **Stack:** Java · Maven · JDBC · MySQL · Swing · DAO/Repository · SQL
 
-**Repositorio:** agregar link del repo cuando lo subas
+**Repositorio:** 
 
 ---
 
